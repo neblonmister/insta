@@ -1,0 +1,63 @@
+.elementor-426 .elementor-element.elementor-element-bd18381:not(.elementor-motion-effects-element-type-background), .elementor-426 .elementor-element.elementor-element-bd18381 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2023/11/DESKTOP01-1.jpg");background-position:top center;}.elementor-426 .elementor-element.elementor-element-bd18381{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:-95px;margin-bottom:0px;padding:577px 0px 40px 0px;}.elementor-426 .elementor-element.elementor-element-bd18381 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-426 .elementor-element.elementor-element-305c424 > .elementor-element-populated{border-style:solid;border-width:4px 4px 4px 4px;border-color:#1BEAD5;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 25px 54px 25px;}.elementor-426 .elementor-element.elementor-element-305c424 > .elementor-element-populated, .elementor-426 .elementor-element.elementor-element-305c424 > .elementor-element-populated > .elementor-background-overlay, .elementor-426 .elementor-element.elementor-element-305c424 > .elementor-background-slideshow{border-radius:19px 19px 19px 19px;}.elementor-426 .elementor-element.elementor-element-305c424 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-426 .elementor-element.elementor-element-9bdb7ec{text-align:center;color:#FFFFFF;font-family:"Sora", Sans-serif;font-size:46px;font-weight:700;line-height:56px;}.elementor-426 .elementor-element.elementor-element-12f1d85 .elementor-button{font-family:"Roboto", Sans-serif;font-size:30px;font-weight:500;fill:#000000;color:#000000;background-color:transparent;background-image:linear-gradient(280deg, #12D7AF 0%, #1BEAD5 100%);border-style:none;border-radius:120px 120px 120px 120px;box-shadow:0px 0px 10px 0px #1BEAD5;padding:15px 75px 15px 75px;}.elementor-426 .elementor-element.elementor-element-12f1d85 > .elementor-widget-container{margin:-34px 0px 0px 0px;}.elementor-426 .elementor-element.elementor-element-1ed6fc7:not(.elementor-motion-effects-element-type-background), .elementor-426 .elementor-element.elementor-element-1ed6fc7 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#0E1515;}.elementor-426 .elementor-element.elementor-element-1ed6fc7{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:30px 0px 30px 0px;}.elementor-426 .elementor-element.elementor-element-1ed6fc7 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-426 .elementor-element.elementor-element-8ac9d9c{text-align:center;color:#FFFFFF;font-family:"Sora", Sans-serif;font-size:15px;font-weight:400;}.elementor-426 .elementor-element.elementor-element-8ac9d9c > .elementor-widget-container{margin:-12px 0px -15px 0px;padding:0px 0px 0px 0px;}.elementor-426 .elementor-element.elementor-element-d8b6a18{text-align:center;color:#FFFFFF24;font-family:"Sora", Sans-serif;font-size:15px;font-weight:400;}@media(min-width:768px){.elementor-426 .elementor-element.elementor-element-d9677ef{width:14.043%;}.elementor-426 .elementor-element.elementor-element-305c424{width:71.577%;}.elementor-426 .elementor-element.elementor-element-293aeb1{width:14.046%;}}@media(max-width:767px){.elementor-426 .elementor-element.elementor-element-bd18381:not(.elementor-motion-effects-element-type-background), .elementor-426 .elementor-element.elementor-element-bd18381 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2023/11/MOBILE01.jpg");background-size:cover;}.elementor-426 .elementor-element.elementor-element-bd18381{margin-top:0px;margin-bottom:0px;padding:249px 0px 0px 0px;}.elementor-426 .elementor-element.elementor-element-305c424 > .elementor-element-populated{padding:0px 15px 26px 15px;}.elementor-426 .elementor-element.elementor-element-9bdb7ec{font-size:25px;line-height:1.2em;}.elementor-426 .elementor-element.elementor-element-12f1d85 .elementor-button{font-size:16px;padding:015px 30px 15px 30px;}.elementor-426 .elementor-element.elementor-element-8ac9d9c{font-size:12px;}.elementor-426 .elementor-element.elementor-element-d8b6a18{font-size:13px;}}/* Start custom CSS for column, class: .elementor-element-305c424 */.efeito-vidro {
+background: rgba( #, 255, 255, 0.35 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 13.5px );
+-webkit-backdrop-filter: blur( 13.5px );
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('http://neblonhacker.com/wp-content/uploads/2023/10/Sora-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('http://neblonhacker.com/wp-content/uploads/2023/10/Sora-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('http://neblonhacker.com/wp-content/uploads/2023/10/Sora-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://neblonhacker.com/wp-content/uploads/2023/10/Sora-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://neblonhacker.com/wp-content/uploads/2023/10/Sora-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('http://neblonhacker.com/wp-content/uploads/2023/10/Sora-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://neblonhacker.com/wp-content/uploads/2023/10/Sora-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('http://neblonhacker.com/wp-content/uploads/2023/10/Sora-ExtraBold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
